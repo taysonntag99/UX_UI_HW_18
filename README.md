@@ -1,2 +1,2 @@
-# Chill_Pill_App
- App so you dont need to think about taking your medication
+# UX_UI_HW_18
+ IDK what I'm doing lol
