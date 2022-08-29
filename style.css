@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #E0DED2;
   padding: 15px;
 }
 header ul {
@@ -24,18 +24,18 @@ header p {
   max-width: 300px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #FFFFFF;
+  background-color: #DED9D3;
   text-align: center;
 }
 button {
   padding: 15px;
-  background-color: #373738;
+  background-color: #2E2B23;
   color: white;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #2E2B23;
   padding: 5px;
   color: white;
 }
